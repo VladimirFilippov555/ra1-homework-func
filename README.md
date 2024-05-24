@@ -1,4 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ufc0lgo3d6wwqkp0?svg=true)](https://ci.appveyor.com/project/VladimirFilippov555/ra1-homework-func)
+[Ссылка на страницу интернет-магазина](https://VladimirFilippov555.github.io/ra1-homework-func)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/67x79lq62975j5x0?svg=true)](https://ci.appveyor.com/project/VladimirFilippov555/ra1-homework-func)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-GO-green.svg)](https://VladimirFilippov555.github.io/ra1-homework-func)
 
 Необходимо создать React-компонент `ShopItemFunc` (функциональный компонент), с помощью которого мы могли бы реализовывать представление информации о товарах из нашего каталога на сайте в таком виде (компонент обведён пунктирной линией):
